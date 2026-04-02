@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Test",
+    "song": "Creo - Dimension",
+    "level_url": "https://raw.githubusercontent.com/usuario/repo/main/levels/retrobeat.txt",
+    "song_url": "https://raw.githubusercontent.com/usuario/repo/main/songs/outlaw.ogg",
+    "difficulty": 99,
+    "bpm": 150
+  },
+  {
+    "name": "Test 2",
+    "song": "Creo - Sphere",
+    "level_url": "https://raw.githubusercontent.com/usuario/repo/main/levels/retrobeat.txt",
+    "song_url": "https://raw.githubusercontent.com/usuario/repo/main/songs/outlaw.ogg",
+    "difficulty": 1,
+    "bpm": 120
+  }
+]
