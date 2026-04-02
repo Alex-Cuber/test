@@ -2,16 +2,16 @@
   {
     "name": "Test",
     "song": "Creo - Dimension",
-    "level_url": "https://raw.githubusercontent.com/usuario/repo/main/levels/retrobeat.txt",
-    "song_url": "https://raw.githubusercontent.com/usuario/repo/main/songs/outlaw.ogg",
+    "level_url": "https://raw.githubusercontent.com/Alex-Cuber/test/refs/heads/main/Levels/test.txt",
+    "song_url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/Creo%20-%20Dimension.OGG",
     "difficulty": 99,
     "bpm": 150
   },
   {
     "name": "Test 2",
     "song": "Creo - Sphere",
-    "level_url": "https://raw.githubusercontent.com/usuario/repo/main/levels/retrobeat.txt",
-    "song_url": "https://raw.githubusercontent.com/usuario/repo/main/songs/outlaw.ogg",
+    "level_url": "https://raw.githubusercontent.com/Alex-Cuber/test/refs/heads/main/Levels/test2.txt",
+    "song_url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/Creo%20-%20Sphere.OGG",
     "difficulty": 1,
     "bpm": 120
   }
