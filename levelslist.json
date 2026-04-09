@@ -4,8 +4,8 @@
     "song": "Creo - Dimension",
     "level_url": "https://raw.githubusercontent.com/Alex-Cuber/test/refs/heads/main/Levels/test.txt",
     "song_url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/Creo%20-%20Dimension.OGG",
-    "difficulty": 99,
-    "bpm": 150
+    "difficulty": "Hola :)",
+    "bpm": 64
   },
   {
     "name": "Test 2",
