@@ -4,6 +4,7 @@
     "downname": "Creo - Dimension",
     "author": "Creo",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/Creo%20-%20Dimension.OGG",
+    "duration": "3:12",
     "bpm": 115
   },
   {
@@ -11,6 +12,7 @@
     "downname": "Creo - Place On Fire",
     "author": "Creo",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/Creo%20-%20Place%20On%20Fire.OGG",
+    "duration": "3:05",
     "bpm": 128
   },
   {
@@ -18,6 +20,7 @@
     "downname": "Creo - Rock Thing",
     "author": "Creo",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/Creo%20-%20Rock%20Thing.OGG",
+    "duration": "3:25",
     "bpm": 110
   },
   {
@@ -25,6 +28,7 @@
     "downname": "Creo - Sphere",
     "author": "Creo",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/Creo%20-%20Sphere.OGG",
+    "duration": "4:00",
     "bpm": 100
   },
   {
@@ -32,6 +36,7 @@
     "downname": "At the Speed of Light",
     "author": "Dimrain47",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/At%20the%20Speed%20of%20Light.OGG",
+    "duration": "4:10",
     "bpm": 162
   },
   {
@@ -39,6 +44,7 @@
     "downname": "The Disturbance",
     "author": "Dimrain47",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/The%20Disturbance.OGG",
+    "duration": "3:56",
     "bpm": 170
   },
   {
@@ -46,6 +52,7 @@
     "downname": "Jetstream!",
     "author": "Dimrain47",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/Jetstream.OGG",
+    "duration": "3:29",
     "bpm": 170
   },
   {
@@ -53,6 +60,7 @@
     "downname": "F-777 - Flower Bazooka",
     "author": "F-777",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/F-777%20-%20Flower%20Bazooka.OGG",
+    "duration": "3:54",
     "bpm": 128
   },
   {
@@ -60,6 +68,7 @@
     "downname": "F-777 - Hydra",
     "author": "F-777",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/F-777%20-%20Hydra.OGG",
+    "duration": "3:24",
     "bpm": 100
   },
   {
@@ -67,6 +76,7 @@
     "downname": "F-777 - Moonbeam",
     "author": "F-777",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/F-777%20-%20Moonbeam.OGG",
+    "duration": "4:44",
     "bpm": 128
   },
   {
@@ -74,6 +84,7 @@
     "downname": "F-777 - Power Glove",
     "author": "F-777",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/F-777%20-%20Power%20Glove.OGG",
+    "duration": "3:03",
     "bpm": 130
   },
   {
@@ -81,6 +92,7 @@
     "downname": "F-777 - Star Gate",
     "author": "F-777",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/F-777%20-%20Star%20Gate.OGG",
+    "duration": "2:27",
     "bpm": 140
   },
   {
@@ -88,6 +100,7 @@
     "downname": "F-777 - The Lost Vikings",
     "author": "F-777",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/F-777%20-%20The%20Lost%20Vikings.OGG",
+    "duration": "4:02",
     "bpm": 140
   },
   {
@@ -95,6 +108,7 @@
     "downname": "ParagonX9 - Blue Marine",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Blue%20Marine.OGG",
+    "duration": "3:43",
     "bpm": 140
   },
   {
@@ -102,6 +116,7 @@
     "downname": "ParagonX9 - Chaoz Airflow",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Chaoz%20Airflow.OGG",
+    "duration": "4:13",
     "bpm": 175
   },
   {
@@ -109,6 +124,7 @@
     "downname": "ParagonX9 - Chaoz Fantasy",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Chaoz%20Fantasy.OGG",
+    "duration": "2:13",
     "bpm": 162
   },
   {
@@ -116,6 +132,7 @@
     "downname": "ParagonX9 - Chaoz Impact",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Chaoz%20Impact.OGG",
+    "duration": "1:55",
     "bpm": 150
   },
   {
@@ -123,6 +140,7 @@
     "downname": "ParagonX9 - Chaoz Twilight",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Chaoz%20Twilight.OGG",
+    "duration": "3:36",
     "bpm": 140
   },
   {
@@ -130,6 +148,7 @@
     "downname": "ParagonX9 - Defection",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Defection.OGG",
+    "duration": "1:37",
     "bpm": 180
   },
   {
@@ -137,6 +156,7 @@
     "downname": "ParagonX9 - HyperioxX",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20HyperioxX.OGG",
+    "duration": "3:17",
     "bpm": 180
   },
   {
@@ -144,6 +164,7 @@
     "downname": "ParagonX9 - Infiltration",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Infiltration.OGG",
+    "duration": "3:27",
     "bpm": 150
   },
   {
@@ -151,6 +172,7 @@
     "downname": "ParagonX9 - Infinity",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Infinity.OGG",
+    "duration": "2:01",
     "bpm": 140
   },
   {
@@ -158,6 +180,7 @@
     "downname": "ParagonX9 - Polar 240",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Polar%20240.OGG",
+    "duration": "1:44",
     "bpm": 120
   },
   {
@@ -165,6 +188,7 @@
     "downname": "ParagonX9 - Red 13",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Red%2013.OGG",
+    "duration": "7:51",
     "bpm": 140
   },
   {
@@ -172,6 +196,7 @@
     "downname": "TheFatRat - Unity",
     "author": "TheFatRat",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/TheFatRat%20-%20Unity.OGG",
+    "duration": "4:09",
     "bpm": 128
   }
 ]
