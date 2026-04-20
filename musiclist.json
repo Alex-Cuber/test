@@ -1,5 +1,13 @@
 [
   {
+    "name": "Lit Fuse",
+    "downname": "Cacola - Lit Fuse",
+    "author": "Cacola",
+    "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/Cacola%20-%20Lit%20Fuse.OGG",
+    "duration": "5:59",
+    "bpm": 115
+  },
+  {
     "name": "Dimension",
     "downname": "Creo - Dimension",
     "author": "Creo",
@@ -56,8 +64,24 @@
     "bpm": 170
   },
   {
+    "name": "Cosmic Dreamer",
+    "downname": "Cosmic Dreamer",
+    "author": "Djjaner",
+    "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/Djjaner%20-%20Cosmic%20Dreamer.OGG",
+    "duration": "3:09",
+    "bpm": 177
+  },
+  {
+    "name": "SpeedBreaker",
+    "downname": "SpeedBreaker",
+    "author": "Djjaner",
+    "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/Djjaner%20-%20SpeedBreaker.OGG",
+    "duration": "2:58",
+    "bpm": 175
+  },
+  {
     "name": "Flower Bazooka",
-    "downname": "F-777 - Flower Bazooka",
+    "downname": "Flower Bazooka",
     "author": "F-777",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/F-777%20-%20Flower%20Bazooka.OGG",
     "duration": "3:54",
@@ -65,7 +89,7 @@
   },
   {
     "name": "Hydra",
-    "downname": "F-777 - Hydra",
+    "downname": "Hydra",
     "author": "F-777",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/F-777%20-%20Hydra.OGG",
     "duration": "3:24",
@@ -73,7 +97,7 @@
   },
   {
     "name": "Moonbeam",
-    "downname": "F-777 - Moonbeam",
+    "downname": "Moonbeam",
     "author": "F-777",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/F-777%20-%20Moonbeam.OGG",
     "duration": "4:44",
@@ -81,7 +105,7 @@
   },
   {
     "name": "Power Glove",
-    "downname": "F-777 - Power Glove",
+    "downname": "Power Glove",
     "author": "F-777",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/F-777%20-%20Power%20Glove.OGG",
     "duration": "3:03",
@@ -89,7 +113,7 @@
   },
   {
     "name": "Star Gate",
-    "downname": "F-777 - Star Gate",
+    "downname": "Star Gate",
     "author": "F-777",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/F-777%20-%20Star%20Gate.OGG",
     "duration": "2:27",
@@ -97,15 +121,23 @@
   },
   {
     "name": "The Lost Vikings",
-    "downname": "F-777 - The Lost Vikings",
+    "downname": "The Lost Vikings",
     "author": "F-777",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/F-777%20-%20The%20Lost%20Vikings.OGG",
     "duration": "4:02",
     "bpm": 140
   },
   {
+    "name": "Purgatori",
+    "downname": "Purgatori",
+    "author": "KORAII",
+    "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/KORAII%20-%20Purgatori.OGG",
+    "duration": "7:15",
+    "bpm": 151
+  },
+  {
     "name": "Blue Marine",
-    "downname": "ParagonX9 - Blue Marine",
+    "downname": "Blue Marine",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Blue%20Marine.OGG",
     "duration": "3:43",
@@ -113,7 +145,7 @@
   },
   {
     "name": "Chaoz Airflow",
-    "downname": "ParagonX9 - Chaoz Airflow",
+    "downname": "Chaoz Airflow",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Chaoz%20Airflow.OGG",
     "duration": "4:13",
@@ -121,7 +153,7 @@
   },
   {
     "name": "Chaoz Fantasy",
-    "downname": "ParagonX9 - Chaoz Fantasy",
+    "downname": "Chaoz Fantasy",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Chaoz%20Fantasy.OGG",
     "duration": "2:13",
@@ -129,7 +161,7 @@
   },
   {
     "name": "Chaoz Impact",
-    "downname": "ParagonX9 - Chaoz Impact",
+    "downname": "Chaoz Impact",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Chaoz%20Impact.OGG",
     "duration": "1:55",
@@ -137,7 +169,7 @@
   },
   {
     "name": "Chaoz Twilight",
-    "downname": "ParagonX9 - Chaoz Twilight",
+    "downname": "Chaoz Twilight",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Chaoz%20Twilight.OGG",
     "duration": "3:36",
@@ -145,7 +177,7 @@
   },
   {
     "name": "Defection",
-    "downname": "ParagonX9 - Defection",
+    "downname": "Defection",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Defection.OGG",
     "duration": "1:37",
@@ -153,7 +185,7 @@
   },
   {
     "name": "HyperioxX",
-    "downname": "ParagonX9 - HyperioxX",
+    "downname": "HyperioxX",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20HyperioxX.OGG",
     "duration": "3:17",
@@ -161,7 +193,7 @@
   },
   {
     "name": "Infiltration",
-    "downname": "ParagonX9 - Infiltration",
+    "downname": "Infiltration",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Infiltration.OGG",
     "duration": "3:27",
@@ -169,7 +201,7 @@
   },
   {
     "name": "Infinity",
-    "downname": "ParagonX9 - Infinity",
+    "downname": "Infinity",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Infinity.OGG",
     "duration": "2:01",
@@ -177,7 +209,7 @@
   },
   {
     "name": "Polar 240",
-    "downname": "ParagonX9 - Polar 240",
+    "downname": "Polar 240",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Polar%20240.OGG",
     "duration": "1:44",
@@ -185,7 +217,7 @@
   },
   {
     "name": "Red 13",
-    "downname": "ParagonX9 - Red 13",
+    "downname": "Red 13",
     "author": "ParagonX9",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/ParagonX9%20-%20Red%2013.OGG",
     "duration": "7:51",
@@ -197,6 +229,6 @@
     "author": "TheFatRat",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/TheFatRat%20-%20Unity.OGG",
     "duration": "4:09",
-    "bpm": 128
+    "bpm": 105
   }
 ]
