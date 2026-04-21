@@ -5,7 +5,7 @@
     "level_url": "https://raw.githubusercontent.com/Alex-Cuber/test/refs/heads/main/Levels/Trigger%20Showcase.txt",
     "song_url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/At%20the%20Speed%20of%20Light.OGG",
     "difficulty": 1,
-    "bpm": 60
+    "bpm": 60,
     "id": 999
   },
   {
@@ -14,7 +14,7 @@
     "level_url": "https://raw.githubusercontent.com/Alex-Cuber/test/refs/heads/main/Levels/test.txt",
     "song_url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/Creo%20-%20Dimension.OGG",
     "difficulty": 5,
-    "bpm": 64
+    "bpm": 64,
     "id": 1
   },
   {
@@ -23,7 +23,7 @@
     "level_url": "https://raw.githubusercontent.com/Alex-Cuber/test/refs/heads/main/Levels/test2.txt",
     "song_url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/Creo%20-%20Sphere.OGG",
     "difficulty": 4,
-    "bpm": 120
+    "bpm": 120,
     "id": 2
   }
 ]
