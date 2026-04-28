@@ -72,12 +72,52 @@
     "bpm": 177
   },
   {
+    "name": "Death by Glamour (Rmx)",
+    "downname": "Death by Glamour (Rmx)",
+    "author": "Djjaner",
+    "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/Death%20by%20Glamour%20(Rmx).OGG",
+    "duration": "2:13",
+    "bpm": 148
+  },
+  {
+    "name": "Megalovania (Rmx)",
+    "downname": "Megalovania (Rmx)",
+    "author": "Djjaner",
+    "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/Megalovania%20(Rmx).OGG",
+    "duration": "2:32",
+    "bpm": 120
+  },
+  {
+    "name": "Metal Crusher (Rmx)",
+    "downname": "Metal Crusher (Rmx)",
+    "author": "Djjaner",
+    "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/Metal%20Crusher%20(Rmx%20v.2).OGG",
+    "duration": "1:48",
+    "bpm": 110
+  },
+  {
+    "name": "Sparkler",
+    "downname": "Sparkler",
+    "author": "Djjaner",
+    "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/Sparkler.OGG",
+    "duration": "1:10",
+    "bpm": 175
+  },
+  {
     "name": "SpeedBreaker",
     "downname": "SpeedBreaker",
     "author": "Djjaner",
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/Djjaner%20-%20SpeedBreaker.OGG",
     "duration": "2:58",
     "bpm": 175
+  },
+  {
+    "name": "Spider Dance (RmX)",
+    "downname": "Spider Dance (RmX)",
+    "author": "Djjaner",
+    "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/Spider%20Dance%20(RmX).OGG",
+    "duration": "1:40",
+    "bpm": 115
   },
   {
     "name": "Flower Bazooka",
@@ -110,6 +150,14 @@
     "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/F-777%20-%20Power%20Glove.OGG",
     "duration": "3:03",
     "bpm": 130
+  },
+  {
+    "name": "Sonic Blaster",
+    "downname": "Sonic Blaster",
+    "author": "F-777",
+    "url": "https://github.com/Alex-Cuber/test/raw/refs/heads/main/Music/F-777%20-%20Sonic%20Blaster.OGG",
+    "duration": "3:02",
+    "bpm": 150
   },
   {
     "name": "Star Gate",
